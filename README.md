@@ -9,4 +9,4 @@ bigann:   hwtl_sdu_anns_streaming
 
 HWTL: Weipeng Jiang, Yu Gao, Weixi Zhang, Chengda Wu, Chaorui Zhang, Yibin Ding, Wei Han, Bo Bai
 
-SDU：Kun Wang，Yansong MU， Yupeng Hu ， Liqiang Nie
+SDU：Kun Wang, Yansong MU, Yupeng Hu, Liqiang Nie
