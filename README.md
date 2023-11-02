@@ -3,9 +3,7 @@
 
 NeurIPS 2023 Competition track- Streaming Track. The team members come from HWTL and SDU.
 
-** PR:**   hwtl_sdu_anns_streaming
-
-![image-20231102101724133](C:\Users\j00361191\AppData\Roaming\Typora\typora-user-images\image-20231102101724133.png)
+bigann:   hwtl_sdu_anns_streaming
 
 **Team Members:** 
 
